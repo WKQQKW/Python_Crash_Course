@@ -1,4 +1,4 @@
-#姓名
+#问候语
 names = ['Tom', 'Jerry', 'Jack', 'Kobe', 'James']
 for name in names:
-    print(name)
+    print('welcome, ' + name.upper() + ' !')

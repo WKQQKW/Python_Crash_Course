@@ -1,0 +1,16 @@
+#放眼世界
+places = ['Great Wall', 'Summer Palace', 'Forbidden City', "Bird's nest", 'Water cube']
+places_sort = sorted(places)
+print(places_sort)
+print(places)
+places_reverse = sorted(places, reverse = True)
+print(places_reverse)
+print(places)
+places.reverse()
+print(places)
+places.reverse()
+print(places)
+places.sort()
+print(places)
+places.sort(reverse=True)
+print(places)
